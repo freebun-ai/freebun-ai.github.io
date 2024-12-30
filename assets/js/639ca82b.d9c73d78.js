@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktranslate_freebun_ai_docs=self.webpackChunktranslate_freebun_ai_docs||[]).push([[601],{7690:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});s(6540);var n=s(781),r=s(4848);function c(){return(0,r.jsxs)(n.A,{children:[(0,r.jsx)("h1",{children:"My React page"}),(0,r.jsx)("p",{children:"This is a React page"})]})}}}]);
