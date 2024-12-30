@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktranslate_freebun_ai_docs=self.webpackChunktranslate_freebun_ai_docs||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
